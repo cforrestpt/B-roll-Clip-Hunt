@@ -1,0 +1,98 @@
+[
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "29511d7b3fb0acd45276802ea1a82fd95d567143",
+    "size": 1075,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/29511d7b3fb0acd45276802ea1a82fd95d567143",
+    "download_url": "https://raw.githubusercontent.com/louisedesadeleer/b-roll-finder/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/29511d7b3fb0acd45276802ea1a82fd95d567143",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "be516e5ff50cfba63e45f9ea6d08043da8ab4670",
+    "size": 12377,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/README.md?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/be516e5ff50cfba63e45f9ea6d08043da8ab4670",
+    "download_url": "https://raw.githubusercontent.com/louisedesadeleer/b-roll-finder/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/be516e5ff50cfba63e45f9ea6d08043da8ab4670",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/README.md"
+    }
+  },
+  {
+    "name": "SKILL.md",
+    "path": "SKILL.md",
+    "sha": "3292c6c14de6ebfd2bb5ec44f60bf79cd6a1344a",
+    "size": 28849,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/SKILL.md?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/SKILL.md",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/3292c6c14de6ebfd2bb5ec44f60bf79cd6a1344a",
+    "download_url": "https://raw.githubusercontent.com/louisedesadeleer/b-roll-finder/main/SKILL.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/SKILL.md?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/3292c6c14de6ebfd2bb5ec44f60bf79cd6a1344a",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/SKILL.md"
+    }
+  },
+  {
+    "name": "TASTE.md",
+    "path": "TASTE.md",
+    "sha": "94e23337ce102b51f3b4db3437b06dcee850932a",
+    "size": 9152,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/TASTE.md?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/TASTE.md",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/94e23337ce102b51f3b4db3437b06dcee850932a",
+    "download_url": "https://raw.githubusercontent.com/louisedesadeleer/b-roll-finder/main/TASTE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/TASTE.md?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/94e23337ce102b51f3b4db3437b06dcee850932a",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/TASTE.md"
+    }
+  },
+  {
+    "name": "banner.png",
+    "path": "banner.png",
+    "sha": "7549ed112fbfd3a92b24e10e3c5f5f746090cbd9",
+    "size": 380574,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/banner.png?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/banner.png",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/7549ed112fbfd3a92b24e10e3c5f5f746090cbd9",
+    "download_url": "https://raw.githubusercontent.com/louisedesadeleer/b-roll-finder/main/banner.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/banner.png?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/blobs/7549ed112fbfd3a92b24e10e3c5f5f746090cbd9",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/blob/main/banner.png"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "f458cece603991ba1c1e6ccf7108e8766143212c",
+    "size": 0,
+    "url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/scripts?ref=main",
+    "html_url": "https://github.com/louisedesadeleer/b-roll-finder/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/trees/f458cece603991ba1c1e6ccf7108e8766143212c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/louisedesadeleer/b-roll-finder/git/trees/f458cece603991ba1c1e6ccf7108e8766143212c",
+      "html": "https://github.com/louisedesadeleer/b-roll-finder/tree/main/scripts"
+    }
+  }
+]
